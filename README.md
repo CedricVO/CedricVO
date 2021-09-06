@@ -1,6 +1,6 @@
 <h1 align="center"><a href="https://i1.wp.com/nerdbot.com/wp-content/uploads/2020/01/1r3fn3-e1579990017466.jpg?fit=786%2C499&ssl=">Hello there</a>, I'm Cedric Van Opstal</h1>
-<h2 align="center">Alumni Electronics-ICT @ <a href="https://www.ap.be/" target="blank">AP University college</a> 
-    <br>and soon junior .NET Consultant <a href="https://www.realdolmen.com/">@Inetum-Realdolmen</a></h2>
+<h2 align="center">Alumni Electronics-ICT <a href="https://www.ap.be/" target="blank">@AP University college</a> 
+    <br>and .NET Consultant <a href="https://www.realdolmen.com/">@Inetum-Realdolmen</a></h2>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=CedricVO" alt="cedricvo" /> 
@@ -13,7 +13,6 @@ I am an enthousiastic developer with lots of ambition. Currently most in love wi
 - 🌞 Morning person
 - 🌑 Dark mode addict
 - 🚣‍ <a href="https://zeescouts2.be/">2de Corneel Mayné Zeescouts Antwerpen</a>
-- 🏠 Currenly working and studying from home
 
 <br>
 
